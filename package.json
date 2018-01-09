@@ -1,0 +1,20 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "Totally 90's Random Quote Generator",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/bandymedic/quotegen.git",
+  "author": "Mark Bandy <medic7144@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bandymedic/quotegen/issues"
+  },
+  "homepage": "https://github.com/bandymedic/quotegen#readme"
+}
